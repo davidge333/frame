@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">成长宝</string>
+
+    <string name="frag_my">我的</string>
+    <string name="frag_gzb">工资宝</string>
+    <string name="frag_lcb">理财宝</string>
+    <string name="frag_life">生活宝</string>
+    <string name="frag_insurance">安心保</string>
+
+    <string name="tx_my_gzb">我的工资宝</string>
+    <string name="tx_my_lcb">我的理财宝</string>
+    <string name="tx_my_bankcard">我的银行卡</string>
+    <string name="tx_my_life">我的生活宝</string>
+    <string name="tx_order_my_insurance">我的安心保</string>
+    <string name="tx_city_picker">请选择城市</string>
+
+    <string name="tx_buy">购买</string>
+    <string name="tx_redeem">赎回</string>
+    <string name="tx_total_amount">总金额(元)</string>
+    <string name="tx_cancel">取消</string>
+    <string name="tx_confirm">确认</string>
+    <string name="tx_ok">确定</string>
+
+
+    <string name="tx_products_all_empty">暂无公开的产品\n\n敬请期待</string>
+    <string name="tx_lcb_product_holding">持有中</string>
+    <string name="tx_lcb_product_redeemed">已赎回</string>
+    <string name="tx_lcb_amount_describe">持有金额(元)</string>
+    <string name="tx_lcb_income_describe">参考收益(元)</string>
+    <string name="tx_lcb_product_describe">开启财智之旅</string>
+    <string name="tx_lcb_pre_year_rate">预期年化收益率</string>
+    <string name="tx_lcb_min_range">投资期限</string>
+    <string name="tx_change_password">修改登录密码</string>
+    <string name="tx_change_gesture_pwd">修改手势密码</string>
+    <string name="tx_about">关于</string>
+    <string name="tx_quit">退出登录</string>
+    <string name="tx_setting">设置</string>
+    <string name="tx_address">收货地址管理</string>
+    <string name="tx_add_address">新增收货地址</string>
+    <string name="tx_title_add_address">添加收货地址</string>
+    <string name="tx_update_address">修改收货地址</string>
+    <string name="tx_select_address">选择收货地址</string>
+	<string name="tx_order_detail">订单详情</string>
+    <string name="tx_my_insurance_detail">保单详情</string>
+	<string name="tx_express_record">物流信息</string>
+	
+    <string name="tx_redeem_confirm">确认赎回</string>
+
+
+    <string name="tx_no_address">您还没有收货地址</string>
+    <string name="tx_no_order">您还没有相关订单</string>
+    <string name="tx_no_data">暂无数据</string>
+    <string name="tx_data_load">数据加载中...</string>
+    <string name="tx_data_loading">数据加载中</string>
+    <string name="error_load_fail">数据加载失败</string>
+    <string name="error_other">连接失败</string>
+    <string name="error_parser">解析错误</string>
+    <string name="error_no_found">找不到网页错误</string>
+    <string name="error_url">地址错误</string>
+    <string name="error_net">当前网络不稳定，请检查后重试</string>
+    <string name="error_no_web">网络不给力，点击重新加载!</string>
+    <string name="error_404">找不到网页错误</string>
+
+    <string name="tx_total_assert">总资产(元)</string>
+
+    <string name="pull_state_normal">下拉可以刷新</string>
+    <string name="pull_state_refreshing">正在刷新...</string>
+    <string name="pull_state_start_refresh">松开刷新...</string>
+
+    <!-- 赎回 -->
+    <string name="gzb_total_amount">工资宝总金额</string>
+    <string name="error_value_null">金额不能为空</string>
+
+
+    <string name="select_arrive_time_type">选择到账方式</string>
+    <string name="money_format_illegitimate">金额格式不合法</string>
+    <string name="get_arrive_time_error">返回数据异常，请稍后再试</string>
+    <string name="error_get_type">获取类型失败 请重新点击获取</string>
+    <string name="more_than_amount">超过最大可赎回金额</string>
+
+    <!-- 关于 -->
+    <string name="about_check_version">版本更新</string>
+    <string name="about_new_version">已是最新版本</string>
+    <string name="about_czb_info">关于成长宝</string>
+    <string name="about_hn_zb_info">关于华能资本</string>
+    <string name="about_soft_licence_agreement">软件许可及服务协议</string>
+    <string name="about_soft_licence_content">© 2013-2016 hnrmb.com. All rights reserved.</string>
+    <string name="about_czb_info_web_title">成长宝</string>
+    <string name="about_hn_zb_info_web_title">华能资本</string>
+
+
+    <string name="share_qr_info">扫二维码下载成长宝</string>
+    <!-- 消息 -->
+    <string name="tx_message">消息</string>
+    <string name="tx_announce">公告</string>
+    <string name="tx_notice">通知</string>
+    <string name="tx_feedback">反馈</string>
+    <!-- 消息详情 -->
+    <string name="tx_message_detail">消息详情</string>
+    <!-- share -->
+    <string name="tx_share_title">朋友就是财富，拉上朋友一起赚</string>
+    <!-- pie chart -->
+    <string name="tx_total_income">累计收益</string>
+    <string name="tx_amount">总资产</string>
+    <!-- 收益界面 -->
+    <string name="no_income_info">收益结算中</string>
+    <string name="total_info_value">累计收益(元)</string>
+
+    <string name="last_day_income">昨日收益(元)</string>
+    <string name="last_week_incoming">近7日收益(元)</string>
+    <string name="last_wan_yuan_incoming">万份收益(元)</string>
+    <string name="last_month_incoming">近30日收益(元)</string>
+    <string name="history_incoming">累计收益(元)</string>
+    <string name="seven_days_yield_rating">七日年化收益率</string>
+    <string name="seven_days_yield_rating_mao_hao">七日年化收益率:</string>
+
+    <string name="last_wan_yuan_incoming_typestr">thousandsProfit</string>
+    <string name="last_month_incoming_typestr">profit</string>
+    <string name="history_incoming_typestr">profit</string>
+    <string name="seven_days_yield_rating_typestr">sevenDaysAnnualProfitRate</string>
+    <!-- 交易详情-->
+    <string name="transaction_detail_lcb">交易详情</string>
+
+    <string name="transaction_fail">交易失败</string>
+    <string name="transaction_confirmed">已确认</string>
+    <string name="transaction_income">收益</string>
+    <string name="transaction_redeem">赎回</string>
+    <string name="transaction_redeem_record">赎回记录</string>
+    <string name="transaction_pay">支付记录</string>
+
+    <string name="transaction_redeem_typestr">redeem</string>
+    <string name="transaction_pay_lcb_typestr">payment</string>
+
+    <string name="transaction_buy">购买</string>
+    <string name="transaction_buy_record">购买记录</string>
+    <string name="transaction_buy_typestr">buy</string>
+    <string name="transaction_detail">交易明细</string>
+    <string name="transaction_record">交易记录</string>
+    <string name="income_detail">收益明细</string>
+
+    <string name="transaction_detail_typestr">general</string>
+
+
+    <string name="activity_treasure">工资宝</string>
+    <string name="activity_bill">工资单</string>
+    <string name="activity_server">服务</string>
+    <string name="activity_more">更多</string>
+    <string name="activity_week_incoming">近一周收益</string> 
+    <string name="activity_oneyuan_incoming">万份收益</string>   
+	 <string name="activity_month_incoming">近一月收益</string>   
+	 <string name="activity_total_incoming">历史收益</string>  
+	 <string name="activity_seven_days_yield_rating">七日年化收益率</string> 
+	 <string name="activity_current_bill">最新工资单</string> 
+	 <string name="activity_history_bill">历史工资单</string> 
+	 <string name="activity_bankcard">我的工资卡</string> 
+	 <string name="activity_change_password">修改密码</string> 
+	 <string name="activity_change_gesture_pwd">修改手势密码</string> 
+	 <string name="activity_change_mobile">修改绑定手机</string> 
+	 <string name="activity_about">关于</string>
+	 <string name="activity_delivery_address">收货地址管理</string>
+
+	 <string name="activity_production_appoint">理财宝</string>
+	 <string name="no_recent_week_income_info">暂无一周收益详情</string>
+
+
+	 <string name="income">收益</string>  
+	 <string name="rollout">赎回</string>  
+	 <string name="roolin">购买</string>  
+	 <string name="detail">交易明细</string>          
+     <string name="income_carried_forward">收益结转</string>      
+
+    <string name="activity_login_btn_login">登录</string>
+    <string name="activity_login_username">请输入手机号</string>
+    <string name="activity_login_password">请输入登录密码</string>
+    <string name="activity_login_password_again">再次输入新密码</string>
+    <string name="activity_login_forget">忘记密码</string>
+    <string name="activity_login_reset">修改密码</string>
+    <string name="activity_login_forget_pwd">重置密码</string>
+    <string name="activity_login_register">注册账号</string>
+    <string name="activity_login_search">找回密码</string>
+    <string name="activity_forget_checkphone">验证手机</string>
+    
+    
+    
+    	<!-- 提示信息 -->
+	<string name="two_exit">再按一次退出程序</string>
+    <string name="network_error">网络连接错误</string>
+    <string name="no_network">网络无法连接，请检查后重试</string>
+    <string name="no_room">存储空间不足，建议清除存</string>
+    <string name="net_overtime">网络连接超时啦</string>
+    <string name="net_error">网络异常，需要关闭！</string>
+    <string name="login_error">登录失败，需要关闭！</string>
+    <string name="exit_msg">您确定要退出程序？</string>
+    <string name="logout_msg">您确定要退出当前账号？</string>
+    <string name="data_load">数据加载中...</string>
+    <string name="data_load_error">数据加载失败</string>
+    <string name="apk_updata">软件载入下载列表...</string>
+    <string name="data_none">没有加载到任何相关的数据！</string>
+    <string name="loading">正在联网...</string>
+    <string name="refresh">刷新</string>
+	<string name="login_progress_dialog">正在登录...</string>
+	<string name="no_content_info">没有相关项目</string>
+
+	<string name="list_empty">暂无数据</string>
+	<string name="submit_success">提交成功</string>
+	<string name="web_error">网络不给力，点击重新加载!</string>
+    <string name="pulldown_state_normal">下拉可以刷新</string>
+    <string name="pulldown_state_refreshing">正在刷新...</string>
+    <string name="pulldown_state_startrefresh">松开刷新...</string>
+    <string name="reset_succ_info">恭喜您，重置密码成功！</string>
+    <string name="change_succ_info">恭喜您，修改密码成功！</string>
+    <string name="money_format_unlegitimate">金额格式不合法</string>
+    
+    <string name="passwd_wrong_repeat">密码错误，请重新输入</string>
+ 
+	<!-- 登录 注册  -->
+	
+	
+	<string name="register_id_number">您的18位身份证号码</string>
+	<string name="alert_phone">"请输入正确的11位手机号码"</string>
+	<string name="regist_name">姓名</string>
+	<string name="register_phone">您的手机号码</string>
+	<string name="regist_safe_id">为了保证你的账号安全，需要验证身份。</string>
+	<string name="regist_safe_phone">我们将发送效验码短信到这个号码：</string>
+	<string name="regist_safe_sms">通过短信验证身份</string>
+	<string name="regist_phone_code">请输入手机%s收到的短信验证码</string>
+	<string name="check_code">输入验证码</string>
+	<string name="regist_send_sms_cool">%d秒后重发</string>
+	<string name="regist_send_sms">获取验证码</string>
+	<string name="regist_password_alert">请输入6-20位登录密码</string>
+	<string name="regist_password_equal">两次输入密码不一致</string>
+    <string name="password_has_blank">不能有空格</string>
+    <string name="set_password_null_info">请设置新密码</string>
+    <string name="confirm_password_null_info">请再次输入密码</string>
+
+
+    <string name="change_current_password">输入新密码</string>
+	<string name="change_new_password">输入新密码</string>
+	<string name="change_password_tip">密码由6-20位数字、字母或符号组成</string>
+	<string name="show_password">显示密码</string>
+	
+	<string name="change_mobile_password">请输入登录密码</string>
+	<string name="change_mobile_mobile">请输入绑定手机号码</string>
+	<string name="change_mobile_mobile2">请输入手机号码</string>
+	<string name="change_mobile_mobile3">请再次输入手机号码</string>
+	<string name="change_mobile_error">如有疑问请咨询客服</string>
+	
+	<string name="set_gesture_password">设置手势密码</string>
+	<string name="change_gesture_reset">重新设置手势</string>
+	<string name="change_gesture_tip">绘制解锁图案</string>
+	
+	<string name="login_gesture">手势密码登录</string>
+    <string name="login_gesture_title">请绘制手势密码解锁</string>
+	<string name="login_gesture_forget">忘记手势密码</string>
+	<string name="login_gesture_otherlogin">其他账号登录</string>
+	<string name="login_gesture_error_excption">您已连续5次输错手势密码，手势解锁已关闭，请重新登录。</string>
+	<string name="login_gesture_forget_excption">忘记手势密码，需要重新登录</string>
+	<string name="gesture_set_succ">恭喜您，设置手势密码成功！</string>
+	<string name="gesture_change_succ">恭喜您，修改手势密码成功！</string>
+	
+	
+	<!-- treasurefragment -->    
+
+	 <string name="last_oneyuan_incoming">万份收益(元)</string>   
+
+	 <string name="last_month_incoming_rank">近一月平均收益率</string>   
+	 <string name="total_incoming">历史收益(元)</string>   
+	 <string name="total_amount">总金额(元)</string>
+	 <string name="yield_rank_list">收益排行榜</string>   
+	 <string name="set_limit">购买</string>   
+	 <string name="get_money">赎回</string>   
+	 <string name="set_limit_hint">建议购买100元以上金额</string>   
+	 <string name="set_limit_text1">设置每月工资卡购买工资宝额度</string>   
+	 <string name="set_limit_text2">当前每月购买额度 %s元</string>   
+	 <string name="alert_limit_text2">最多购买工资宝%s元</string>   
+	 
+	 <string name="redeem_success">赎回成功</string>
+	 <string name="purchased_success">购买成功</string>
+     <string name="no_week_income_info">暂无一周收益详情</string>
+     <string name="loading_data_info">正在加载数据</string>
+     
+     
+    <!-- 提现-->
+     <string name="transfer_out_to_bank">提现到银行卡</string>
+     <string name="arrival_time">到账时间</string>
+     <string name="treasure_amount">可用金额</string>
+     <string name="treasure_total_amount">工资宝总金额</string>
+     <string name="transfer_out_hint">请输入大于100的金额</string>
+     <string name="transfer_in_hint">购买金额</string>
+     <string name="transfer_btn_sure">立即赎回</string>
+     <string name="transfer_in_btn_sure">确认购买</string>
+     <string name="bank_select">选择银行卡</string>
+     <string name="setlimit_info">*您所设置金额会由您单位财务统一为您定时购买，
+         购买成长宝的资金会在购买后的第二个工作日（双休日及国家法定假期顺延）由基金公司进行份额确认，
+         份额确认后的第二天就会产生收益，收益发放时间为每天的15:00前。\n
+	注：成长宝资金基金公司确认份额后，不在区分节假日、工作日，只要不转出不消费，每天都会有收益，复利计算。\n
+	*如果您预置的投入金额大于您所下发工资金额，则您将错过本次投入。</string>
+
+     <!--账单 bill -->
+     <string name="bill_current_month">查询时段设置</string>
+     <string name="bill_search_date">查询时段设置</string>
+     <string name="bill_start_date">起始日期</string>
+     <string name="bill_end_date">结束日期</string>
+     <string name="bill_amount">工资总额(元)</string>
+     <string name="bill_earch_wage">工资各组成部分(元)</string>
+     <string name="bill_basic_wage">基本工资(元)</string>
+     <string name="bill_basic_info">基本信息</string>
+     <string name="bill_click_info">点击查看详情</string>
+     <string name="bill_star_tip">*本值仅为估算，以实发为准</string>
+     <string name="bill_compare_detail">明细对比</string>
+     <string name="bill_compare_month">最近两个月比较</string>
+     <string name="bill_compare_year">与去年同期比较</string>
+     
+     <string name="year">年</string>
+     <string name="month">月</string>
+     
+
+     <!-- 服务 -->
+     <string name="server_detail_intro">详细介绍</string>
+     <string name="server_detail_check">立即查看</string>
+    <!--文字提示-->
+
+    <!-- 理财宝 -->
+    <string name="highrate_products">所有产品</string>
+    <string name="highrate_purchased">已购买</string>
+    <string name="highrate_products_all_empty">暂无公开的产品\n\n敬请期待</string>
+    <string name="highrate_products_attentaion_empty">您还没有买过理财宝啊\n</string>
+    <string name="highrate_purcahsed_empty">在线购买，敬请期待</string>
+    <string name="highrate_attention_question">快去买点吧</string>
+
+    <string name="lcb_holding_empty">您还没有购买理财产品\n快去让资产增值吧～</string>
+    <string name="lcb_redeemed_empty">您还没有到期的理财宝产品\n快去让资产增值吧～</string>
+
+    <string name="income_history_empty">您还没有收益记录，快去让资产增值吧～</string>
+    <string name="transaction_history_empty">您还没有交易记录，快去让资产增值吧～</string>
+    <string name="buy_history_empty">您还没有购买记录，快去让资产增值吧～</string>
+    <string name="ransom_history_empty">您还没有赎回记录，快去让资产增值吧～</string>
+    <string name="pay_history_empty">您还没有支付记录，快去让资产增值吧～</string>
+    <!-- 按钮 -->
+    <string name="button_commit">提交</string>
+    <string name="button_cancel">取消</string>
+    <string name="button_ok">确定</string>
+    <string name="button_today">今天</string>
+    <string name="button_tomorrow">明天</string>
+    <string name="button_all">全部</string>
+    <string name="button_near">附近</string>
+    <string name="button_favorites">常去</string>
+    <string name="button_completed">完成</string>
+    <string name="button_search">查询</string>
+    <string name="button_list">全部</string>
+    <string name="button_activities">活动</string>
+    <string name="button_regist">注册</string>
+    <string name="button_next">下一步</string>
+    <string name="button_save">保  存</string>
+    <!-- 按钮 -->
+    <string name="dialog_btn_ok">确认</string>
+    <string name="dialog_btn_cancel">取消</string>
+    <string name="dialog_btn_setting">设置</string>
+    <string name="dialog_btn_again">再来一次</string>
+    <string name="complete">完成</string>
+    <string name="errcode_success">发送成功</string>
+    <string name="errcode_cancel">发送取消</string>
+    <string name="errcode_deny">发送被拒绝</string>
+    <string name="errcode_unknown">发送返回</string>
+    <!-- UI -->
+    <string name="my_listview_header_hint_normal">下拉可以刷新</string>
+    <string name="my_listview_header_hint_ready">释放立即刷新</string>
+    <string name="my_listview_header_hint_loading">正在载入...</string>
+    <string name="my_listview_header_last_time">上次更新：</string>
+    <string name="my_listview_footer_hint_normal">点击或上拉载入更多...</string>
+    <string name="my_listview_footer_hint_ready">释放立即载入</string>
+    <!-- Web View -->
+    <string name="web_service_detail">服务详情</string>
+    <string name="howto_signin">注册向导</string>
+    <!-- 关于 -->
+
+    <string name="about_feedback">意见反馈</string>
+
+    <string name="about_version_new">已是最新版本</string>
+    <string name="about_version_findnew">发现新版本</string>
+    <string name="about_feedback_title">意见反馈</string>
+
+    <string name="no_redemption">可赎回金额为0，无法赎回</string>
+    <string name="no_redemption_dialog">当前工资宝可赎回金额为 0，请先购买或等待正在转入金额确认后再赎回</string>
+    <string name="check_version_isruning">已有软件更新在运行，请稍候</string>
+    <string name="reget_arrivetime_info">获取类型失败 请重新点击获取</string>
+    <string name="get_arrivetime_error">返回数据异常，请稍后再试</string>
+    <string name="select_arrivetime_type">选择到账方式</string>
+    <string name="realtime_total_type">最快到账(全部实时)</string>
+    <string name="more_income_comme_type">多享收益(全普通赎回)</string>
+     <string name="more_income_split_type">多享收益(普通赎回+实时赎回)</string>
+    <string name="money_detail_purchase">立即购买</string>
+    <string name="money_purchase_use_gzb">使用工资宝付款</string>
+    <string name="money_purchase_contact">&#060;&#060;产品合同&#062;&#062;</string>
+    <string name="money_purchase_pay_protocol">&#060;&#060;平台服务协议&#062;&#062;</string>
+    <string name="money_open_account_protocol">&#060;&#060;开户协议&#062;&#062;</string>
+    <string name="money_purchase_confirm">购买</string>
+    <string name="money_purchase_amount_describe">申购金额</string>
+    <string name="money_purchase_income_describe">预期收益</string>
+    <string name="money_purchase_fee_describe">购买手续费(预估)</string>
+    <string name="action_agree">我已阅读并同意</string>
+    <string name="gzb_available_value">工资宝可用金额:</string>
+    <string name="money_purchase_contact_title">产品合同</string>
+    <string name="money_purchase_pay_protocol_title">开户协议</string>
+    <string name="money_service_protocol_title">平台服务协议</string>
+    <string name="money_less_than_step">购买金额须为%1$s的整数倍</string>
+    <string name="money_more_than_surplus">对不起，您的购买金额超出%1$s剩余金额，请调整金额后重新购买</string>
+    <string name="money_more_than_usable">您的购买金额大于工资宝可用金额，无法完成支付，请调整金额后重新购买。</string>
+    <string name="money_more_than_max">最多可购买%1$s元</string>
+    <string name="user_assert_title">账户金额明细</string>
+    <string name="dialog_title_info">提示</string>
+    <string name="pwd_error_five">您已连续5次输错密码，请重新登录。</string>
+    <string name="result_detail_title">结果详情</string>
+    <string name="result_success_title">购买成功</string>
+    <string name="share">分享</string>
+    <string name="contact_and_pay_protocol">相关协议</string>
+    <string name="gzb_surplus_amount">工资宝可用金额</string>
+    <string name="money_single_limit">单笔限额</string>
+    <string name="money_amount">金额</string>
+    <string name="gzb_usable_amount">剩余可投金额</string>
+
+    <string name="protocol_agree_info">请先同意\"相关协议\"</string>
+
+    <string name="unknown_error">未知错误！</string>
+
+    <string name="share_content">安全、便捷、稳健的理财服务，您的好友邀请您一起，下载成长宝 App，坐享资产增值</string>
+
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="border">Border</string>
+    <string name="shape">Shape</string>
+    <string name="circle">Circle</string>
+    <string name="square">Square</string>
+    <string name="color">Color</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="defaultColor">Default</string>
+
+
+    <string name="send_sms_verification_code_success">已发送短信验证码，请注意查收</string>
+    <string name="sms_verification_code_null">请输入验证码</string>
+
+    <string name="income_processing">收益结算中</string>
+    <string name="processing">结算中</string>
+    <string name="no_income_data">暂无收益</string>
+
+
+    <string name="more_lcb_will_come">更多理财机会很快就来，敬请期待</string>
+    <string name="error_no_net">网络无法连接，请检查后重试</string>
+
+
+    <string name="last_week_incoming_no_unit">近7日收益</string>
+    <string name="last_wan_yuan_incoming_no_unit">万份收益</string>
+    <string name="last_month_incoming_no_unit">近30日收益</string>
+
+    <string name="re_login_info">重新登录</string>
+
+    <string name="gzb_redeem_confirm_button">确认赎回</string>
+
+
+    <!-- 反馈 -->
+    <string name="feedback_server_name">成长宝团队</string>
+    <string name="feedback_me_name">我</string>
+    <string name="feedback_add">添加反馈</string>
+    <string name="feedback_less_info">请最少输入5个字</string>
+    <string name="feedback_finish_info">您有尚未提交的反馈，确定要离开么</string>
+    <string name="feedback_success_info">我们将尽快跟进并解决您的问题</string>
+    <string name="feedback_hint_info">请详细描述您遇到的问题</string>
+    <string name="feedback_success_title">提交成功</string>
+    <string name="feedback_history_empty">您还有没有反馈信息</string>
+
+    <!--定投计划 -->
+    <string name="regular_plan_add">添加计划</string>
+    <string name="regular_plan">定投计划</string>
+    <string name="regular_plan_type">付款银行卡</string>
+    <string name="select_time">请选择日期</string>
+    <string name="regular_time_des">遇到法定假日顺延至下个交易日购买</string>
+    <string name="regular_plan_title">定期购买</string>
+
+    <string name="no_regular_plan">还没有计划哦~</string>
+    <string name="money_manager">资金自动管理</string>
+
+    <string name="delete">删除</string>
+    <string name="number_input">还可以输入%d字</string>
+    <string name="regular_agree">我已阅读并了解</string>
+    <string name="regular_protocol_name">业务规则</string>
+
+    <string name="regular_protocol_add_succ">添加成功</string>
+
+    <string name="more_than_large">计划已达添加上限</string>
+    <string name="regular_delete_succ_content">您的计划删除成功!</string>
+    <string name="regular_delete_succ_title">删除成功！</string>
+
+    <string name="regular_update_succ_title">修改成功！</string>
+    <string name="regular_update_succ_content">您的计划修改成功！</string>
+    <string name="regular_buy_date_title">购买日期</string>
+
+
+    <string name="gzb_guider_regular">试试定投神器~</string>
+    <string name="gzb_guider_transaction">点击查看交易记录</string>
+    <string name="gzb_guider_close">知道了</string>
+
+
+    <string name="my_bank_no_info">暂无银行卡信息</string>
+
+    <!-- rule -->
+    <string name="income_rule">收益与赎回规则</string>
+    <string name="arrive_time_rule">到账时间说明</string>
+
+    <string name="lcb_holding_rule_info">点击查看”持有金额“计算规则～</string>
+    <string name="lcb_holding_rule_info_two">“持有金额”中不包含“锁定”的金额哦！</string>
+
+    <!-- protocol  name -->
+    <string name="czb_user_protocol">成长宝平台用户协议</string>
+    <string name="czb_server_protocol">成长宝平台服务协议</string>
+    <string name="czb_privacy_protocol">成长宝平台隐私保护声明</string>
+
+
+    <string name="regular_no_update_info">请修改后再保存</string>
+
+
+    <!-- 生活宝 -->
+    <string name="life_state_ing">进行中</string>
+    <string name="life_product_empty">暂无生活宝产品信息</string>
+    <string name="life_risk_info">风险提示</string>
+    <string name="life_weixin_pay">微信支付</string>
+
+
+    <string name="add_address">添加收货地址</string>
+    <string name="order_deliver_method">配送方式</string>
+
+    <string name="order_total">合计:</string>
+    <string name="order_info">温馨提示</string>
+    <string name="order_confirm">确认订单</string>
+    <string name="life_select_range">选择档位</string>
+    <string name="life_to_range">查看各支持款项</string>
+    <string name="life_wx_pay_result">支付结果</string>
+    <string name="order_result_ing">支付中</string>
+    <string name="order_result_succ">支付成功</string>
+    <string name="order_result_fail">支付失败</string>
+    <string name="order_result_continue">支付尚未完成</string>
+    <string name="order_pay_confirm">确认支付</string>
+    <string name="order_pay_total">订单金额</string>
+    <string name="return_main">返回首页</string>
+    <string name="watch_order_list">查看订单</string>
+    <string name="order_is_paying">支付尚未完成</string>
+    <string name="order_pay_continue">继续支付</string>
+    <string name="order_pay_time_before">请在</string>
+    <string name="order_pay_time_after">内完成支付，超时订单自动关闭</string>
+    <string name="order_pay_time_before_succ">成功支付</string>
+    <string name="order_pay_time_after_succ">感谢您的支持！</string>
+    <string name="order_need_pay_info">您还需要支付</string>
+    <string name="order_need_address_info">请添加收货地址哦</string>
+    <string name="order_need_commit_info">请填写备注信息</string>
+    <string name="order_timeout_info">订单已经关闭，如果您要继续支持，请重新下单</string>
+
+
+
+    <string name="order_pay_continue_info">支付还没有完成，确定要放弃支付吗？</string>
+    <string name="no_weixin">您还没有安装微信，请先下载微信客户端</string>
+    <string name="order_more_than">已超过最大可支持数量</string>
+
+    <string name="order_is_over">该订单已完成支付</string>
+    <string name="order_is_cancel">抱歉，该订单已取消</string>
+
+
+
+	<string name="address_select">选择地址</string>
+
+    <string name="tx_life_all">全部</string>
+    <string name="tx_life_waitpay">待支付</string>
+    <string name="tx_life_waitconfirm">待确认</string>
+    <string name="tx_life_dfhb">待发回报</string>
+    <string name="tx_life_dshb">待收回报</string>
+
+	<string name="p2refresh_doing_end_refresh">加载中&#8230;</string>
+    <string name="p2refresh_refresh_lasttime">最近更新&#160;&#058;&#160;</string>
+
+
+    <!-- 保险 -->
+    <string name="tx_write_info">填写信息</string>
+    <string name="tx_select_city">投保城市</string>
+    <string name="tx_select_number">选择份数</string>
+    <string name="tx_insurance_fee_total">保费合计</string>
+    <string name="tx_insurance_confirm">确认投保</string>
+    <string name="tx_insurance_order_confirm">投保信息确认</string>
+    <string name="tx_need_city_info">请选择投保城市</string>
+    <string name="tx_need_protocol_confirm">请阅读并勾选相关条款</string>
+
+
+</resources>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_light">#F2FFFFFF</color>
+
+    <color name="white_eight">#CCFFFFFF</color>
+
+    <color name="back_ground_default_gray">#f2f2f2</color>
+    <color name="tab_text_default">#bdbdbd</color>
+    <color name="tab_text_pressed">#ffa600</color>
+    <color name="order_status_tips">#81a5a5</color>
+    <color name="orange_line">#33ffa600</color>
+    <color name="content_text_orange">#ff9100</color>
+
+    <color name="content_text_black">#a0a0a0</color>
+	<color name="express_text_cur">#4aad7a</color>
+    <color name="text_default_value">#FFa8a8a8</color>
+
+    <color name="text_red">#ed2a4f</color>
+    <color name="text_setting_content">#303030</color>
+    <color name="text_pwd_black">#3f3f3f</color>
+
+    <color name="progressbar_gray">#eaeaea</color>
+
+
+    <color name="trans_light">#99eaeaea</color>
+    <color name="black2">#ff666666</color>
+    <color name="green">#ff32b9aa</color>
+    <color name="blue">#30aef4</color>
+
+    <color name="edit_text_hint">#cdcdcd</color>
+
+    <color name="transparent">#00000000</color>
+    <drawable name="transparent_background">#00000000</drawable>
+    <color name="sc_transparent_black">#7f000000</color>
+    <color name="score_text_color">#ff8400</color><!--  评分的数字颜色 -->
+    <color name="app_backgroud">#f6f5f1</color>
+    <color name="bg_f1f3f8">#f1f3f8</color>
+	<color name="bg_bbbbbb">#bbbbbb</color>
+    <color name="bg_level1">#e6e6e6</color>
+    <color name="bg_level2">#dddddd</color>
+    <color name="price_text_color">#ff8400</color>
+    <color name="date_unchecked">#646464</color>
+    <color name="foot_text_s">#2696BF</color>
+    <color name="foot_text_n">#79838C</color>
+    <color name="text_ffffff">#ffffff</color>
+    <color name="text_d0d0d0">#d0d0d0</color>
+    <color name="text_e9714e">#e9714e</color>
+    <color name="text_3292e8">#3292e8</color>
+    <color name="text_ecf9ff">#ecf9ff</color>
+    <color name="text_ffebcd">#ffebcd</color>
+    <color name="text_abb0bf">#abb0bf</color>
+    <color name="text_737a8e">#737a8e</color>
+    <color name="text_3d3d3d">#3d3d3d</color>
+    <color name="text_9a9999">#9a9999</color>
+    <color name="text_40c0ff">#40c0ff</color>
+    <color name="text_ff8a00">#ff8a00</color>
+    <color name="text_orange">#ffff8a00</color>
+    <color name="text_address">#666666</color>
+
+    <color name="lightSkyBlue">#FF31aef4</color>
+    <color name="deepSkyBlue">#0092d3</color>
+
+    <color name="royalBlue">#4169E1</color>
+    <color name="dodgerBlue">#1E90FF</color>
+    <color name="divide_gray">#c8c8c8</color>
+    <color name="blackGray">#1C1C1C</color>
+    
+    <color name="mintCream">#F5FFFA</color>
+    <color name="red">#FFFF0000</color>
+
+    <color name="wave_red">#ed2a4f</color>
+    <color name="wave_range_gray">#fafafa</color>
+    <color name="wave_orange">#ffa600</color>
+
+
+
+    <color name="dark_gray">#333333</color>
+    <color name="light_gray">#AFFFFFFF</color>
+    <color name="light_white">#CCFFFFFF</color>
+    <color name="light_income_forward">#FF00a816</color>
+   
+    <color name="divider_line_blue" >#ff187fc4</color>
+    
+    <!-- 高息通 -->
+    <color name="highrate_rate_bg">#2D88CE</color>
+    <color name="highrate_recommend_bg">#88B6DB</color>
+    
+
+    
+    <drawable name="btn_up">#004098</drawable>
+	<drawable name="btn_down">#9fa4a8</drawable>
+	
+	<!-- dialog 颜色值 -->
+	<color name="dialog_btn_enable">#BBE1F2</color>
+	<color name="dialog_btn_pressed">#0092D3</color>
+	<color name="dialog_btn_default">#31AEF4</color>
+	
+	<color name="dialog_cancel_btn_enable">#DBDBDB</color>
+	<color name="dialog_cancel_btn_pressed">#B2B2B2</color>
+	<color name="dialog_cancel_btn_default">#C6C6C6</color>
+	
+	<color name="text_default_gray">#a8a8a4</color>
+
+	<color name="edittext_textcolor">#FF1a1a1a</color>
+	<color name="time_line_color">#e2e2e2</color>
+	<color name="time_text_color">#808080</color>
+	
+
+    <color name="attention_blue_txclolor">#30aef4</color>
+    <color name="notication_body_txclolor">#84edba</color>
+
+
+    <color name="back_ground_gray">#f4f3f8</color>
+    <color name="list_item_red">#de6567</color>
+    <color name="seek_bar_progress_gray">#cdcdcd</color>
+    <color name="text_blue">#FF31aef4</color>
+    <color name="divide_transparent_gray">#55808080</color>
+
+
+
+    <bool name="default_circle_indicator_centered">true</bool>
+    <color name="default_circle_indicator_fill_color">#FFFFFFFF</color>
+    <color name="default_circle_indicator_page_color">#00000000</color>
+    <integer name="default_circle_indicator_orientation">0</integer>
+    <dimen name="default_circle_indicator_radius">3dp</dimen>
+    <bool name="default_circle_indicator_snap">false</bool>
+    <color name="default_circle_indicator_stroke_color">#FFDDDDDD</color>
+    <dimen name="default_circle_indicator_stroke_width">1dp</dimen>
+
+    <dimen name="default_line_indicator_line_width">12dp</dimen>
+    <dimen name="default_line_indicator_gap_width">4dp</dimen>
+    <dimen name="default_line_indicator_stroke_width">1dp</dimen>
+    <color name="default_line_indicator_selected_color">#FF33B5E5</color>
+    <color name="default_line_indicator_unselected_color">#FFBBBBBB</color>
+    <bool name="default_line_indicator_centered">true</bool>
+
+    <dimen name="default_title_indicator_clip_padding">4dp</dimen>
+    <color name="default_title_indicator_footer_color">#FF33B5E5</color>
+    <dimen name="default_title_indicator_footer_line_height">2dp</dimen>
+    <integer name="default_title_indicator_footer_indicator_style">2</integer>
+    <dimen name="default_title_indicator_footer_indicator_height">4dp</dimen>
+    <dimen name="default_title_indicator_footer_indicator_underline_padding">20dp</dimen>
+    <dimen name="default_title_indicator_footer_padding">7dp</dimen>
+    <integer name="default_title_indicator_line_position">0</integer>
+    <color name="default_title_indicator_selected_color">#FFFFFFFF</color>
+    <bool name="default_title_indicator_selected_bold">true</bool>
+    <color name="default_title_indicator_text_color">#BBFFFFFF</color>
+    <dimen name="default_title_indicator_text_size">15dp</dimen>
+    <dimen name="default_title_indicator_title_padding">5dp</dimen>
+    <dimen name="default_title_indicator_top_padding">7dp</dimen>
+
+    <bool name="default_underline_indicator_fades">true</bool>
+    <integer name="default_underline_indicator_fade_delay">300</integer>
+    <integer name="default_underline_indicator_fade_length">400</integer>
+    <color name="default_underline_indicator_selected_color">#FF33B5E5</color>
+
+	<color name="ed2a4f">#ed2a4f</color>
+    <color name="char_red_color">#FFed2a4f</color>
+    <color name="char_light_red_color">#99ed2a4f</color>
+    <color name="char_gray_color">#cdcdcd</color>
+    <color name="btn_enable_false">#ffd68d</color>
+
+    <color name="message_notice">#6abd97</color>
+    <color name="message_gonggao">#edd106</color>
+    <color name="message_coupon">#ffa600</color>
+
+    <color name="message_content">#999999</color>
+
+    <color name="eighty_five_black">#d8000000</color>
+    <color name="twenty_white">#14FFFFFF</color>
+
+
+    <color name="sixty_black">#99000000</color>
+    <color name="seventy_black">#B2000000</color>
+    <color name="address_black">#666666</color>
+
+    <color name="tx_3f">#3f3f3f</color>
+    <color name="tx_cd">#cdcdcd</color>
+    <color name="tx_a0">#a0a0a0</color>
+    <color name="tx_f2">#f2f2f2</color>
+    <color name="tx_66">#666666</color>
+</resources>
